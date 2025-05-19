@@ -1,4 +1,4 @@
-Feature: Add Chat
+Feature: Add Cart
 
 Scenario: Successful login with valid credentials
     Given the user is on the login page
